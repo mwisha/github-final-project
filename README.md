@@ -1,4 +1,7 @@
-[# github-final-project
-
-The mission and purpose of this project is to empower and provide opportunities to low income individuals.
-](https://github.com/mwisha/github-final-project/blob/ehpersonalweb/CONTRIBUTING.md)https://github.com/mwisha/github-final-project/blob/ehpersonalweb/CONTRIBUTING.md
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
